@@ -1,9 +1,9 @@
 {
-  "version": "2.63.0",
+  "version": "2.65.0",
   "url": "https://pan.baidu.com/s/1oGRVjsakr1RhLVlZSLPeHw?pwd=eii6",
   "notes": "新增卡拉OK歌词模式和用户交流群；滚轮翻页、能翻回上一章末尾，播报条可回看、自动跨章；窗口变小时弹窗也能完整显示；托盘菜单更紧凑美观；修复多处翻页和显示问题。",
   "mac": {
-    "version": "2.63.0",
+    "version": "2.65.0",
     "url": "https://pan.baidu.com/s/1xSDLQO-zXrb5teUxyAt_WA?pwd=n756",
     "notes": "新增卡拉OK歌词模式和用户交流群；滚轮翻页、能翻回上一章末尾，播报条可回看、自动跨章；修复透明背景下文字有底色和残影、关闭后再打开没反应的问题。"
   }
